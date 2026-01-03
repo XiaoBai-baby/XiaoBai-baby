@@ -6,8 +6,8 @@
 
 
 <h1 align="center">Hi, I'm 小白</h1>
-<h3 align="center">一位兢兢业业勤勤恳恳的独立开发者</h3>
-<h3 align="center">正在为改造世界而努力写代码...</h3>
+<h3 align="center">An independent developer who is diligent and conscientious</h3>
+<h3 align="center">Is currently writing code for the purpose of transforming the world...</h3>
 
 
 
